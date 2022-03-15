@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oNmNbZK5AvF9qH+NEaWEI8Z0xsTOvu8ANCKy3MPfshxv71B5UrWq11D17/zzijgh17hT2rBxmUeSQHZcXDtzGQ==",
+  "dgSpecHash": "NvfRruYOSKgjEtBKnfDQOgqkW4OqUkFrnw8XtXj5yT8SwrXvsJel/PyED+peL6rMOWKUIy4PpHpkIeHxxj8lZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AysuMemmedova\\source\\repos\\weapon\\weapon\\weapon.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\tu7tw2d21\\Desktop\\weapon_task\\weapon\\weapon\\weapon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tu7tw2d21\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

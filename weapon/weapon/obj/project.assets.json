@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\AysuMemmedova\\.nuget\\packages\\": {}
+    "C:\\Users\\tu7tw2d21\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AysuMemmedova\\source\\repos\\weapon\\weapon\\weapon.csproj",
+      "projectUniqueName": "C:\\Users\\tu7tw2d21\\Desktop\\weapon_task\\weapon\\weapon\\weapon.csproj",
       "projectName": "weapon",
-      "projectPath": "C:\\Users\\AysuMemmedova\\source\\repos\\weapon\\weapon\\weapon.csproj",
-      "packagesPath": "C:\\Users\\AysuMemmedova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AysuMemmedova\\source\\repos\\weapon\\weapon\\obj\\",
+      "projectPath": "C:\\Users\\tu7tw2d21\\Desktop\\weapon_task\\weapon\\weapon\\weapon.csproj",
+      "packagesPath": "C:\\Users\\tu7tw2d21\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tu7tw2d21\\Desktop\\weapon_task\\weapon\\weapon\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\AysuMemmedova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tu7tw2d21\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -55,12 +55,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.22, 3.1.22]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

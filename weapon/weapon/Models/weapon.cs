@@ -60,7 +60,8 @@ namespace weapon.Models
                 bulletCapacity = Empty + numberOfBullet;
                 Console.WriteLine("The comb is full");
             }
-           
+           else if (bulletCapacity==numberOfBullet)
+                Console.WriteLine(" Weapons are full");
 
         }
          
@@ -79,11 +80,12 @@ namespace weapon.Models
          
         public void Getinfo()
         {
-            Console.WriteLine("1 Shoot ");
-            Console.WriteLine("2 Fire ");
-            Console.WriteLine("3 GetRemainBulletCount ");
-            Console.WriteLine("4 Reload ");
-            Console.WriteLine("5 ChangeFireMode ");
+            Console.WriteLine("1 ChangeFireMode");
+            Console.WriteLine("2 Shoot ");
+            Console.WriteLine("3 Fire ");
+            Console.WriteLine("4 GetRemainBulletCount ");
+            Console.WriteLine("5 Reload ");
+            
         }
             
             
